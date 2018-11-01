@@ -1,9 +1,9 @@
 <h1>Command Line Syntax</h1>
---
+
 `[prompt]$ command option argument`
 
 <h1>The `echo` Command</h1>
---
+
 To print to the screen you can use the syntax:
 
 `echo stringYouWantToPrint`
@@ -14,7 +14,7 @@ For example:
 * `echo 'Hola, como estas?'`
 
 <h1>Getting Out of Infinite Loops</h1>
--
+
 There are times when you will be working the terminal where the terminal gets stuck or 'hangs'. 
 
 Commands that could cause the terminal to hang:
@@ -25,13 +25,13 @@ Commands that could cause the terminal to hang:
  To get out of the 'hang' you will need to push down `ctrl + c`
 
 <h1>Clearing the Terminal</h1>
--
+
 Sometimes you need a fresh start on the terminal. In order to clear the commands on the screen, type in the command `$ clear`, the keyboard shortcut is `^L`.
 
 When you are done with a terminal window (or tab) and are ready to exit, type in the command `$ exit`. A keyboard shortcut is `⌃D`.
 
 <h1>Commands for Navigation</h1>
--
+
 The following commands are some of the most commonly used commands for navigating through the terminal:
 
 * `$ ~` - will take you the root directory
@@ -44,7 +44,7 @@ The following commands are some of the most commonly used commands for navigatin
     * `$ ls -a`	- will list ALL files, including hidden files
 
 <h1>File and Directory Manipulation</h1>
--
+
 There are many commands we can use to create, update, move, copy, and delete files. Below are some of the most commonly used:
 
 <h3>File Commands</h3>
@@ -63,7 +63,7 @@ There are many commands we can use to create, update, move, copy, and delete fil
 * `$ rmdir -r <directory>` -	will remove the directory AND it's contents
 
 <h1>Exercises</h1>
--
+
 
 1. Write a command that prints out the string “Bonjour, cherie”.
 
@@ -83,7 +83,7 @@ _Extra Credit: Open the portfolio directory in your text editor through the comm
 8. Remove the portfolio directory you created in Number 7.
 
 <h1>Extra Resources</h1>
--
+
 * Learn Enough Command Line to be Dangerous - https://www.learnenough.com/command-line-tutorial
 
 * Mac Command Line Cheat Sheet -https://gist.github.com/poopsplat/7195274
