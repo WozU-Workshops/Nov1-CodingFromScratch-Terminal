@@ -60,7 +60,7 @@ There are many commands we can use to create, update, move, copy, and delete fil
 * `$ mkdir <directory>` -	will create an empty directory	
 * `$ open <directory>` - will open the directory in the finder window
 * `$ rmdir <directory>` -	will remove the directory  ONLY if there are no subfiles or subdirectories.	
-* `$ rmdir -r <directory>` -	will remove the directory AND it's contents
+* `$ rm -r <directory>` -	will remove the directory AND it's contents
 
 <h1>Exercises</h1>
 
